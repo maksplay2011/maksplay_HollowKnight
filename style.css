@@ -27,6 +27,8 @@ img{
     text-align: left;
     width: 700px;
     border: 10px inset #808080;
+    display:flex;
+    justify-content: center;
 }
 
 h3 {

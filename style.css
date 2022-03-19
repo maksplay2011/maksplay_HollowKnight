@@ -1,0 +1,77 @@
+body {
+    background-color: #696969;
+}
+
+h1 {
+    text-align: center;
+    color: #2F4F4F;
+}
+
+h2 {
+    text-align: center;
+    color: #2F4F4F;
+}
+
+img{
+    width: 700px;
+}
+.play {
+    display: flex;
+    border: 10px inset #808080;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    font-size: 18px;
+}
+
+.play1 {
+    text-align: left;
+    width: 700px;
+    border: 10px inset #808080;
+}
+
+h3 {
+    text-align: center;
+    color: #2F4F4F;
+    font-size: 18px;
+}
+
+.geym {
+    border: 10px inset #808080;
+}
+
+h4 {
+    text-align: center;
+    color: #2F4F4F;
+    font-size: 18px;
+}
+
+.cywet {
+    border: 10px inset #808080;
+}
+
+.dopolhehi {
+    border: 10px inset #808080;
+}
+
+h5 {
+    text-align: center;
+    color: #2F4F4F;
+    font-size: 18px;
+}
+
+.critica {
+    border: 10px inset #808080;
+}
+
+h6 {
+    text-align: center;
+    color: #2F4F4F;
+    font-size: 18px;
+}
+
+.play22 {
+    display: flex;
+    width: 750px;
+    border: 10px inset #808080;
+    flex-wrap: wrap;
+}
